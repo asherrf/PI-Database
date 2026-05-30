@@ -3239,7 +3239,7 @@
 29006;9030;WKWC;KY;Owensboro;Kentucky Wesleyan College,
 29298;9030;WLHI;PA;Schnecksville;Four Rivers Community Broadcasting Corporation,
 29614;9030;WLTM;IL;Harrisburg;Madisonville Baptist Temple Inc.,
-29659;9030;WLVF;FL;;
+29659;9030;WLVF;FL;Haines City;Landmark Baptist Church, Inc.
 29731;9030;WLXZ;NC;Pinehurst;K-LOVE, Inc.
 29791;9030;WMAH;MS;;
 29805;9030;WMAV;MS;;
@@ -3791,7 +3791,7 @@
 29442;9070;WLMW;NH;Manchester;KNOWLEDGE FOR LIFE, INC.
 29756;9070;WLYY;MS;Louisville;Joy Christian Ministries,
 29850;9070;WMCO;OH;New Concord;Muskingum University,
-29918;9070;WMFE;FL;;
+29918;9070;WMFE;FL;Orlando;Community Communications, Inc.
 30226;9070;WMRA;VA;Harrisonburg;James Madison University Board of Visitors / State of Virginia,
 30342;9070;WMVM;WI;Goodman;WRVM, Inc
 30351;9070;WMVV;GA;Griffin;LIFE RADIO MINISTRIES, INC.
@@ -6672,7 +6672,7 @@
 34416;9270;WSWE;VA;;
 34611;9270;WTDR;AL;;
 35023;9270;W224EG;WI;Madison;
-35089;9270;W224CF;FL;Auburndale;
+35089;9270;W224CF;FL;Auburndale;La Raza Media Group, LLC
 35635;9270;WURB;FL;;
 36162;9270;WVLI;IL;Kankakee;Milner Media Partners, LLC
 36376;9270;WVTO;MD;;
@@ -7302,7 +7302,7 @@
 9;9330;K227DC;OR;Prineville;
 4027;9330;CFYX;QC;;
 4715;9330;KTCL;CO;Wheat Ridge;iHM Licenses, LLC
-4883;9330;WFLZ;FL;;
+4883;9330;WFLZ;FL;Tampa;iHM Licenses, LLC
 4947;9330;KBGT;TX;Buffalo Gap;Extreme Media, LLC
 4971;9330;KBHR;CA;Big Bear City;Parallel Broadcasting, Inc.
 5059;9330;KBLB;MN;Nisswa;HBI Radio Brainerd/Wadena, LLC
@@ -7966,7 +7966,7 @@
 33716;9370;WRVG;KY;;
 33755;9370;WRWT;IN;;
 33861;9370;WSAV;OH;;
-33964;9370;WSEU;FL;;
+33964;9370;WSEU;FL;Lakeland;Southeastern University, Inc.
 34060;9370;WSIM;SC;Lamar;Community Broadcasters, LLC
 34091;9370;WSJR;PA;Dallas;Radio License Holding CBC, LLC
 34356;9370;WSTW;DE;Wilmington;WBOC, Inc.
@@ -10233,7 +10233,7 @@
 6135;9570;KDAL;MN;;
 6181;9570;WQMF;IN;Jeffersonville;iHM Licenses, LLC
 6325;9570;KDHT;CO;Denver;iHM Licenses, LLC
-6473;9570;WRUB;FL;;iHM Licenses, LLC
+6473;9570;WDAE;FL;;iHM Licenses, LLC
 6490;9570;KJEB;WA;Seattle;iHM Licenses, LLC
 6557;9570;KDHT;CO;Denver;iHM Licenses, LLC
 6585;9570;KDRT;CA;;
@@ -10509,7 +10509,7 @@
 22387;9590;WBBN;MS;Taylorsville;Blakeney Communications, Inc.
 22454;9590;WBEC;MA;;
 22632;9590;WBKY;WI;Stoughton;Magnum Communications, Inc.
-23236;9590;W240DB;FL;Auburndale;
+23236;9590;W240DB;FL;Auburndale;Hall Communications, Inc.
 23362;9590;WCNA;MS;Potts Camp;TeleSouth Communications, Inc.
 23451;9590;WCQL;NY;Queensbury;Regional Radio Group, LLC
 23474;9590;WCRI;RI;;
@@ -10815,7 +10815,7 @@
 34227;9610;WSOX;PA;Red Lion;Radio License Holding SRC LLC,
 34348;9610;WSTO;KY;Owensboro;Midwest Communications, Inc.
 34591;9610;WTCX;WI;Ripon;Radio Plus, Inc.
-34843;9610;WTMP;FL;;
+34843;9610;WTMP;FL;Dade City;NIA Broadcasting, LLC
 35002;9610;WTSS;NY;Buffalo;Audacy License, LLC
 35017;9610;WTTH;NJ;Margate City;iHM Licenses, LLC
 36159;9610;WVLF;NY;Norwood;Stephens Media Group - Massena, , LLC,
@@ -11127,7 +11127,7 @@
 54174;9630;K242AY;MN;Walker;
 54182;9630;W242DH;TN;Crossville;
 54207;9630;K242CE;LA;Meraux;
-54208;9630;W242AK;FL;Lakeland;
+54208;9630;W242AK;FL;Lakeland;Radio Training Network
 54234;9630;K242CX;MT;Helena;
 54242;9630;W242BX;SC;Greenville;
 54285;9630;W242CT;NY;Olean;
@@ -11613,7 +11613,7 @@
 54068;9670;K244EO;HI;Honolulu;
 54096;9670;W244EG;FL;Tampa;
 54107;9670;K244AG;HI;Maui;
-29373;9670;W244BJ;FL;Lakeland;HALL COMMUNICATIONS, INC,
+29373;9670;W244BJ;FL;Lakeland;Hall Communications, Inc.;
 54124;9670;W244CP;VA;South Hill;
 54125;9670;K244FR;CO;Gunnison;
 54150;9670;K244FL;KS;Wichita;
@@ -11866,7 +11866,7 @@
 54236;9690;W245CQ;ME;South Paris;
 54245;9690;W245DB;PA;Lock Haven;
 54252;9690;W245CT;WI;Hayward;
-54260;9690;W245DO;FL;Lake Wales;
+54260;9690;W245DO;FL;Lake Wales;Super W Media Group, Inc.
 54264;9690;K245BZ;OK;Tulsa;
 54275;9690;K245CT;AZ;Clifton;
 54279;9690;K245CK;NE;Holdrege;
@@ -12039,7 +12039,7 @@
 53576;9710;K246CY;NM;Gallup;
 53582;9710;W246BP;NH;Exeter;
 53586;9710;W246AR;PA;Bensalem;
-53588;9710;W246DX;FL;Winter Haven;
+53588;9710;W246DX;FL;Winter Haven;Thornburg Communications, Inc.
 53589;9710;W246AX;FL;Carrabelle;
 53598;9710;W246BQ;GA;Swainsboro;
 53613;9710;K246AX;AS;Western District;
@@ -12209,7 +12209,7 @@
 33177;9730;WRAN;IL;Taylorville;Hart Media Group LLC,
 33389;9730;WRIR;VA;;
 33695;9730;WRUL;IL;Carmi;The Original Company, Inc.
-34124;9730;WSKY;FL;;
+34124;9730;WSKY;FL;Micanopy;Audacy License, LLC
 34426;9730;WSWO;OH;;
 34875;9730;WTNV;TN;Tiptonville;Dr Pepper Pepsi Cola Bottling Co of Dyersburg, LLC d/b/a Burks Broadcasting
 35728;9730;WUUQ;TN;South Pittsburg;Jackson Telecasters, Inc.
@@ -13408,7 +13408,7 @@
 42986;9830;WKSG;KY;Garrison;Strong Tower Christian Media,
 43188;9830;WQRS;NY;Salamanca;Southern Belle, LLC
 43271;9830;W252CJ;VT;Burlington;
-43411;9830;WWRZ;FL;Fort Meade;Hall Communications, Inc.
+43411;9830;WWRZ;FL;Fort Meade;Radio Training Network
 45570;9830;CBC1; ?;;
 45571;9830;CBC2; ?;;
 45572;9830;CBCF1; ?;;
@@ -14840,7 +14840,7 @@
 32089;9950;WPKR;WI;Omro;Cumulus Licensing LLC,
 32281;9950;WPSB;MD;;
 32507;9950;WQAT;SC;;
-33122;9950;WQYK;FL;;
+33122;9950;WQYK;FL;St. Petersburg;Beasley Media Group Licenses, LLC
 33515;9950;WRNN;SC;;
 33949;9950;WSEF;GA;;
 34798;9950;WTKW;NY;Bridgeport;Galaxy Syracuse Licensee LLC,
@@ -17665,7 +17665,7 @@
 27268;10190;W270BI;TN;Crossville;
 27358;10190;WIKS;NC;New Bern;BEASLEY MEDIA GROUP LICENSES, LLC
 27897;10190;WJFL;GA;Tennille;MIDDLE GEORGIA BROADCASTING INC.,
-27950;10190;WQMP;FL;;Audacy License, LLC, as Debtor-in-Possession,
+27950;10190;WJHM;FL;Daytona Beach;Audacy License, LLC
 27985;10190;WJIV;NY;Cherry Valley;Christian Broadcasting System, Ltd.
 28319;10190;WJVR;VA;Iron Gate;WVJT, LLC
 28564;10190;WKFC;KY;Hustonville;Radioactive, LLC
@@ -17988,7 +17988,7 @@
 54000;10210;W271CW;PA;Pittsburgh;
 54028;10210;K271BL;OR;Roseburg;
 54029;10210;W271DC;IL;Bloomington;
-54033;10210;W271DH;FL;Wauchula;
+54033;10210;W271DH;FL;Wauchula;Marvina Enterprises, LLC
 54037;10210;K271DD;CA;Bakersfield;
 54055;10210;W271CF;AL;Phenix City;
 54061;10210;K271CT;IA;Creston;
@@ -18029,7 +18029,7 @@
 54448;10210;W271CV;GA;Atlanta;
 54461;10210;W271CE;AL;Oxford;
 54480;10210;W271CP;SC;Charleston;
-35091;10210;W271CY;FL;Lakeland;SOLMART MEDIA, LLC,
+35091;10210;W271CY;FL;Lakeland;Solmart Media, LLC
 54508;10210;K271CO;IA;Des Moines;
 54524;10210;K271CH;TX;Fredericksburg;
 54565;10210;W271DA;PA;Elizabethtown;
@@ -18956,7 +18956,7 @@
 54207;10290;W275CJ;PA;Carlisle;
 54220;10290;K275AI;OR;Oak Grove;
 54225;10290;W275CL;VA;Charlottesville;
-54242;10290;W275AX;FL;Bartow;
+54242;10290;W275AX;FL;Bartow;Thornburg Communications, Inc.
 54253;10290;W275CQ;ME;Bangor;
 54275;10290;W275BT;KY;Frankfort;
 54278;10290;K275CF;ID;Sandpoint;
@@ -20223,7 +20223,7 @@
 5791;10410;KCNF;MO;;
 5912;10410;WZEE;WI;Madison;iHM Licenses, LLC
 6102;10410;KVDU;LA;Gonzales;iHM Licenses, LLC
-6122;10410;WTKS;FL;;
+6122;10410;WTKS;FL;Cocoa Beach;iHM Licenses, LLC
 6277;10410;WTQR;NC;Winston-Salem;iHM Licenses, LLC
 6548;10410;KSDM;MN;International Falls;R&J Broadcasting, Inc.
 7036;10410;KEJC;TX;;
@@ -20733,7 +20733,7 @@
 30505;10450;WNBT;PA;;
 31031;10450;WNVZ;VA;Norfolk;Audacy License, LLC
 31081;10450;WNXX;LA;Jackson;Guaranty Broadcasting Company of Baton Rouge, LLC
-31417;10450;WOKV;FL;;
+31417;10450;WOKV;FL;Atlantic Beach;Cox Radio, LLC
 32767;10450;WQKT;OH;Wooster;River Radio Ministries,
 33314;10450;WRFU;IL;;
 33727;10450;WRVR;TN;Memphis;Audacy License, LLC
@@ -20986,7 +20986,7 @@
 31304;10470;WOGM;NY;;
 32487;10470;WPZZ;VA;Crewe;Radio One Licenses, LLC
 32686;10470;WQHQ;MD;Ocean City-Salisbury;iHM Licenses, LLC
-33206;10470;WRBQ;FL;;
+33206;10470;WRBQ;FL;Tampa;BEASLEY MEDIA GROUP LICENSES, LLC
 34007;10470;WSGL;FL;Naples;Renda Broadcasting Corporation of Nevada,
 34008;10470;WSGM;TN;Coalmont;Cumberland Communications Corporation,
 34240;10470;WSPK;NY;Poughkeepsie;6 Johnson Road Licenses, Inc.
@@ -21473,7 +21473,7 @@
 30134;10510;WMNM;WI;;
 30310;10510;WMUG;PA;;
 31384;10510;WOJO;IL;Evanston;Univision Radio Stations Group, Inc.
-31471;10510;WOMX;FL;;
+31471;10510;WOMX;FL;Audacy License, LLC;
 31739;10510;WOXF;MS;Oxford;George S. Flinn, Jr.
 31909;10510;WPDT;SC;Coward;Community Broadcasters, LLC
 31953;10510;WPFL;FL;Century;Tri-County Broadcasting, Inc.
@@ -22675,7 +22675,7 @@
 53607;10610;K291CO;WA;Spokane;
 53611;10610;W291DK;MI;St. Joseph;
 53633;10610;K291BA;KS;Manhattan;
-23236;10610;W291AG;FL;Highland City;RADIO TRAINING NETWORK, INC,
+53639;10610;W291AG;FL;Highland City;Radio Training Network
 53671;10610;K291CF;TX;South Padre Island;
 53672;10610;W291DB;MA;Worcester;
 53673;10610;W291CK;PA;Meadville;
@@ -23250,7 +23250,7 @@
 4377;10670;KAAZ;UT;;
 4843;10670;WLLZ;MI;Detroit;iHM Licenses, LLC
 4916;10670;KBFO;SD;Aberdeen;Prairie Winds Broadcasting, Inc.
-61440;10670;WXXL (HI GLENN) ;FL;Tavares;iHM Licenses, LLC
+61440;10670;WXXL;FL;Tavares;iHM Licenses, LLC
 5170;10670;KWBL;CO;Denver;iHM Licenses, LLC
 5442;10670;KBZU;AR;Benton;Signal Media of Arkansas, Inc.
 5653;10670;KCHX;TX;Midland;ICA Radio, LTD.
@@ -23925,7 +23925,7 @@
 53962;10710;W296DN;FL;Belle Glade;
 53963;10710;K296BF;CA;Weaverville, Etc.;
 53966;10710;W295CG;IL;Arlington Heights;
-53979;10710;W296CS;FL;Lakeland;
+53979;10710;W296CS;FL;Lakeland;Hall Communications, Inc.
 53993;10710;W296DY;MI;Detroit;
 53995;10710;W296CX;GA;Winder;
 54007;10710;W296BW;PA;Erie;
@@ -24348,7 +24348,7 @@
 53992;10750;K298CR;OK;Ardmore;
 54024;10750;K298CT;WY;;
 54053;10750;W298CC;OH;Bucyrus;
-54074;10750;W298BO;FL;Winter Haven;
+54074;10750;W298BO;FL;Winter Haven;Central Florida Educational Foundation, Inc.
 54093;10750;K298CO;MN;Minneapolis;
 54123;10750;K298BR;WA;Wenatchee;
 54144;10750;K298DH;CA;Bakersfield;
@@ -24603,7 +24603,7 @@
 5170;10790;KBPI;CO;Fort Collins;iHM Licenses, LLC
 5173;10790;KBPL;CO;Pueblo;iHM Licenses, LLC
 5196;10790;KBQI;NM;Albuquerque;iHM Licenses, LLC
-5635;10790;WSRZ;FL;;
+34307;10790;WSRZ;FL;Coral Cove;iHM Licenses, LLC
 5722;10790;KCKO;AZ;Rio Rico;De La Fuente Media, LLC
 5746;10790;WMUS;MI;Muskegon;iHM Licenses, LLC
 5750;10790;KCLQ;MO;Lebanon;Go Productions, LLC
@@ -24823,7 +24823,7 @@
 53789;10790;W300BM;WI;Madison;
 53812;10790;W300BU;WV;Keyser;
 53813;10790;K300DQ;LA;Springhill;
-53829;10790;W300CY;FL;Lake Wales;
+53829;10790;W300CY;FL;Lake Wales;Radio Training Network
 53832;10790;K300BG;ND;Grand Forks;
 53839;10790;W300EB;GA;Macon;
 53854;10790;K300CQ;AZ;Lake Havasu City;
