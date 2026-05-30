@@ -617,7 +617,7 @@
 34031;8830;WSHJ;MI;Southfield;Southfield Public Schools;105;42.47003;-83.26408
 34177;8830;WSMZ;MI;Crystal Valley;Smile FM;1500;43.676111;-86.238889
 34592;8830;WTCY;MI;Greilickville;Relevant Radio, Inc.;;;
-34738;8830;WTIO;PA;Mainesburg;Northeastern Pennsylvania Educational Television Association;48;41.7595;-76.92494
+34738;8830;WTIO;PA;Mainesburg;Northeastern Pennsylvania Educational Television Assocfiation;48;41.7595;-76.92494
 35214;8830;WUAW;NC;Erwin;Central Carolina Community College;3000;35.337500;-78.663611
 35706;8830;WUTU;GA;Sasser;Southwest Georgia Project for Community Education, Inc.;3;31.64517;-84.35408
 35901;8830;WVBH;NJ;Beach Haven West;Priority Radio, Inc.;1;39.71567;-74.29181
@@ -6672,7 +6672,7 @@
 34416;9270;WSWE;VA;;;;;
 34611;9270;WTDR;AL;Talladega;The Jeff Beck Broadcasting Group, LLC;2600;33.486667;-85.987500
 35023;9270;W224EG;WI;Madison;Civic Media, Inc.;;;
-35089;9270;W224CF;FL;Auburndale;La Raza Media Group, LLC;;;
+35089;9270;W224CF;FL;Auburndale;La Raza Media Group, LLC;250;27.943361;-81.912306
 35635;9270;WURB;FL;Cross City;;28;28.344167;-81.397222
 36162;9270;WVLI;IL;Kankakee;Milner Media Partners, LLC;3000;41.122778;-87.893056
 36376;9270;WVTO;MD;Baltimore;;100;39.272222;-76.672778
@@ -9702,6 +9702,7 @@
 854;9530;XHRT;TA;Reynosa;;6000;26.08203;-98.27444
 4811;9530;KBBN;NE;Broken Bow;CUSTER COUNTY BROADCASTING CO;30000;41.38722;-99.82122
 4961;9530;KBHH;CA;Kerman;Chavez Radio Group;6000;36.35578;-120.46236
+32201;9530;W237FO;FL;Lakeland;Central Florida Educational Foundation, Inc.;55;28.032694;-81.956528
 5542;9530;KCDQ;AZ;Tombstone;Cochise Broadcasting LLC;100000;32.01894;-110.09311
 5863;9530;KCPZ;MO;;;;;
 5890;9530;WTBU;ME;York Center;iHeartMedia, Inc.;1450;43.22369;-70.69308
@@ -11613,7 +11614,7 @@
 54068;9670;K244EO;HI;Honolulu;Hochman-McCann Hawaii Inc.;250;21.33292;-157.81475
 54096;9670;W244EG;FL;Tampa;;;;
 54107;9670;K244AG;HI;Maui;Akamai Broadcasting of Hawaii LLC;250;20.63514;-156.38633
-29373;9670;W244BJ;FL;Lakeland;Hall Communications, Inc.;;;
+29373;9670;W244BJ;FL;Lakeland;Hall Communications, Inc.;250;27.943639;-81.912028
 54124;9670;W244CP;VA;South Hill;Lakes Media, LLC;;;
 54125;9670;K244FR;CO;Gunnison;;;;
 54150;9670;K244FL;KS;Wichita;;99;37.71806;-97.31839
@@ -18956,7 +18957,7 @@
 54207;10290;W275CJ;PA;Carlisle;;160;40.28981;-77.13581
 54220;10290;K275AI;OR;Oak Grove;;67;45.7015;-121.53589
 54225;10290;W275CL;VA;Charlottesville;Positive Alternative Radio Inc.;;;
-54242;10290;W275AX;FL;Bartow;Thornburg Communications, Inc.;;;
+54242;10290;W275AX;FL;Bartow;Thornburg Communications, Inc.;240;27.943639;-81.912028
 54253;10290;W275CQ;ME;Bangor;MaineInvests, LLC;;;
 54275;10290;W275BT;KY;Frankfort;Western Kentucky University;;;
 54278;10290;K275CF;ID;Sandpoint;;20;48.22908;-116.50878
@@ -19497,6 +19498,7 @@
 4557;10350;WEZL;SC;Charleston;iHeartMedia, Inc.;100000;32.81794;-79.83564
 5029;10350;KBJX;TX;Mertzon;William W. McCutchen, III.;25000;31.27797;-100.86206
 5110;10350;WFUS;FL;Gulfport;iHeartMedia, Inc.;68000;27.81967;-82.26056
+25590;10350;WFUS;FL;Gulfport;iHeartMedia, Inc.;68000;27.81967;-82.26056
 5162;10350;KBPA;TX;Austin;Waterloo Media Group, L.P.;46000;30.310000;-97.793056
 5417;10350;WMIB;FL;Fort Lauderdale;iHeartMedia, Inc.;100000;25.96758;-80.20922
 5681;10350;KCIZ;MN;Brunswick;;100;45.798333;-93.295833
@@ -22676,7 +22678,8 @@
 53607;10610;K291CO;WA;Spokane;;155;47.61628;-117.36633
 53611;10610;W291DK;MI;St. Joseph;;250;42.07197;-86.37086
 53633;10610;K291BA;KS;Manhattan;Community Broadcasting, Inc.;250;39.15583;-96.6125
-53639;10610;W291AG;FL;Highland City;Radio Training Network;;;
+53639;10610;W291AG;FL;Highland City;Radio Training Network;250;27.941278;-81.91425
+23236;10610;W291AG;FL;Highland City;Radio Training Network;250;27.941278;-81.91425
 53671;10610;K291CF;TX;South Padre Island;Christian Ministries of the Valley;;26.07367;-97.20414
 53672;10610;W291DB;MA;Worcester;Gois Broadcasting LLC;;;
 53673;10610;W291CK;PA;Meadville;Public Broadcasting of Northwest PA;19;41.6295;-80.17478
@@ -23927,7 +23930,7 @@
 53962;10710;W296DN;FL;Belle Glade;Shekinah Radio International, LLC;250;26.71228;-80.68283
 53963;10710;K296BF;CA;Weaverville, Etc.;Pacific Cascade Communications Corporation;;40.71903;-122.98111
 53966;10710;W295CG;IL;Arlington Heights;;90;42.13725;-87.98258
-53979;10710;W296CS;FL;Lakeland;Hall Communications, Inc.;;;
+53979;10710;W296CS;FL;Lakeland;Hall Communications, Inc.;250;27.943639;-81.912028
 53993;10710;W296DY;MI;Detroit;;99;42.46975;-83.11519
 53995;10710;W296CX;GA;Winder;Barrow Radio Broadcasting, LLC;;;
 54007;10710;W296BW;PA;Erie;The Board of Trustees of the PA State University;250;42.13644;-80.04006
