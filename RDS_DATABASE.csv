@@ -23909,7 +23909,7 @@
 53523;10710;K296FM;MT;Missoula;Western Rockies Radio, Inc.;99;46.80242;-113.97344
 53531;10710;K296EM;MT;Billings;Fresh Life Church, Inc.;115;45.68717;-108.5615
 53533;10710;W296CP;NY;Ithaca;Vizella Media, LLC;;;
-53534;10710;W296CD;PA;Jonestown;Southern Belle, LLC;;;
+54557;10710;W296CD;PA;Jonestown;Southern Belle, LLC;10;41.113973;-76.237712
 53537;10710;W296AM;VA;Bassett;;;;
 53547;10710;K296DW;CA;Lone Pine, Etc.;;8;36.53047;-117.7895
 53549;10710;K296AK;CO;Montrose;Redrock Radio Group;41;38.51667;-107.8495
@@ -24424,7 +24424,7 @@
 54612;10750;W298CW;PA;Butler;Butler County Radio Network, Inc.;;;
 54635;10750;W298DH;PA;Latrobe;Maryland Media One, LLC;;;
 54654;10750;W298CZ;NC;Forest City;KTC Broadcasting Inc;;;
-54696;10750;W298DJ;PA;Muncy;;;;
+53662;10750;W298DJ;PA;Muncy;Southern Belle, LLC;250;41.208885;-76.958327
 54701;10750;W298CL;NC;Beech Mountain;;;;
 54704;10750;W298DD;VT;Burlington;;;;
 54763;10750;W298BZ;AL;Huntsville;;;;
