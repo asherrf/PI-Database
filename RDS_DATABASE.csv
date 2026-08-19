@@ -1502,7 +1502,7 @@
 54104;8890;K205FK;UT;Price;;;39.75633;-110.98986
 54149;8890;K205BC;AK;Kobuk;;17;66.90778;-156.883
 54167;8890;K205BN;CA;Los Gatos;Radio License Holding SRC LLC;;;
-54177;8890;W205AG;PA;Clarks Summit, Etc.;Good News For Life;7;41.43589;-75.72878
+1;8890;W205AG;PA;Clarks Summit, Etc.;Good News For Life;7;41.43589;-75.72878
 54242;8890;K205CM;CO;Salida, Etc.;;;;
 54254;8890;K205EB;HI;;;;;
 54256;8890;K205BZ;MT;Cut Bank;;23;48.62608;-112.31975
@@ -4088,7 +4088,7 @@
 37225;9090;WXAF;WV;Charleston;Shofar Broadcasting Corporation;4000;38.282778;-81.531389
 38454;9090;WYVM;WI;Sheboygan;WRVM, Inc;;43.86169;-87.77244
 38820;9090;WZJO;SC;Dunbar;;68;33.996111;-80.990000
-39229;9090;WZZH;PA;Honesdale;Four Rivers Community Broadcasting Corporation;110;41.54703;-75.46128
+22986;9090;WZZH;PA;Honesdale;Four Rivers Community Broadcasting Corporation;110;41.54703;-75.46128
 41400;9090;XHAHC;CH;;;;;
 41495;9090;KGCL;OR;Jordan Valley;K-LOVE, Inc.;1000;43.006944;-116.703611
 41496;9090;KGCM;MT;Three Forks;Hi-Line Radio Fellowship, Inc.;1;45.95686;-111.37125
@@ -8273,7 +8273,7 @@
 54295;9390;K230AF;NM;Kirtland;;;36.66333;-108.21592
 54300;9390;K230BH;AK;Delta Junction;;;64.04169;-145.64967
 54306;9390;W230BR;TN;Gatlinburg;Cumberland Communities Communications Corporation;;;
-54309;9390;W230DI;PA;Clarks Summit;Telikoja Educational Broadcasting Inc.;;;
+26045;9390;W230DI;PA;Clarks Summit;Telikoja Educational Broadcasting Inc.;223;41.466662;-75.685552
 54324;9390;K230CB;IA;Marshalltown;Trending Media, Inc.;;;
 54341;9390;K230BR;NE;Ord;MWB Broadcasting II, LLC;250;41.57139;-98.92286
 54348;9390;K230AO;CA;Barstow;;;34.97081;-117.04003
@@ -9472,7 +9472,7 @@
 54518;9490;K235DC;NV;Reno;The Evans Broadcast Company, Inc.;;;
 54634;9490;W235DB;KY;Lebanon;Bardstown Radio Team, LLC;;;
 54676;9490;K235CU;WA;Longview;HOPE MEDIA GROUP;;;
-54705;9490;W235DC;PA;Dickson City;;;;
+54339;9490;W235DC;PA;Dickson City;Kevin M Fitzgerald;250;41.426662;-75.747498
 54726;9490;W235CY;NC;Winston-Salem;Blue Ridge Broadcasting Corp;;;
 54731;9490;W235DD;MD;Ocean City;;;;
 65450;9490;XHPBCQ;QR;;;;;
@@ -10878,7 +10878,7 @@
 53718;9610;K241CD;AK;Moose Pass;Kenai Mountains Public Media, Inc.;;;
 53723;9610;K241CZ;MO;St. James;Community Broadcasting, Inc.;;;
 53724;9610;W241BS;IL;Bourbonnais;Milner Media Partners, LLC;250;41.16086;-87.87506
-53741;9610;W241AZ;PA;Scranton;;;;
+53741;9610;W241AZ;PA;Scranton;Times Shamrock Media, L.P.;80;41.409441;-75.666662
 53761;9610;W241AO;MD;Wye Mills;Hope Christian Church of Marlton, Inc.;;;
 53785;9610;K241AS;AK;Whale Pass;Narrows Broadcasting Corporation;150;56.11186;-133.12197
 53786;9610;W241BE;TN;Martin;Thunderbolt Broadcasting Company;;;
@@ -14071,7 +14071,7 @@
 23335;9890;WCLZ;ME;North Yarmouth;Saga Communications of New England, LLC;48000;43.92786;-69.9945
 24042;9890;WDNE;WV;Elkins;West Virginia Radio Corporation;5100;38.91011;-79.78811
 24310;9890;WDXM;IN;;;;;
-26045;9890;W255BO;PA;Scranton;Telikoja Educational Broadcasting Inc.;;;
+26045;9890;W255BO;PA;Scranton;Telikoja Educational Broadcasting Inc.;154;41.426745;-75.747415
 26090;9890;WGNY;NY;Rosendale;Sunrise Broadcasting Corp.;1350;41.84081;-73.98992
 26253;9890;WGUF;FL;Marco;Renda Broadcasting Corporation of Nevada;6000;26.030556;-81.642500
 26836;9890;WHQQ;IL;Neoga;Cromwell Group, Inc. of Illinois;3200;39.249722;-88.380000
@@ -15431,7 +15431,7 @@
 54466;9990;K260BR;AZ;Lake Havasu City;;;34.55167;-114.19439
 54474;9990;K260DO;NE;O'Neill;Ranchland Broadcasting Company, Inc.;150;42.45944;-98.65675
 54544;9990;K260DU;TX;Borger;;;;
-54585;9990;W260DV;PA;Wilkes-Barre;Geos Communications, LLC;;;
+26045;9990;W260DV;PA;Wilkes-Barre;Geos Communications, LLC;250;41.183693;-75.866863
 54661;9990;W260DJ;VA;Farmville;White Pine Enterprises, Inc.;;;
 54685;9990;W260DC;RI;Woonsocket;Bouchard Broadcasting, inc.;;;
 54721;9990;W260DS;MA;Boston;Real Media Group, LLC;;;
@@ -15539,7 +15539,7 @@
 32157;10010;WPNH;NH;Plymouth;NORTHEAST COMMUNICATIONS CORPORATION;410;43.73922;-71.79033
 32321;10010;WPTP;TN;Philadelphia;;100;34.994444;-85.306667
 32347;10010;WPUP;GA;Watkinsville;Cox Radio, LLC;4300;33.941111;-83.398611
-32631;10010;WQFN;PA;Forest City;Times Shamrock Media, L.P.;6000;41.55644;-75.48489
+32630;10010;WQFN;PA;Forest City;Times Shamrock Media, L.P.;6000;41.55644;-75.48489
 33087;10010;WQXB;MS;Grenada;Rayanna Group LLC;48000;33.85678;-89.92092
 33359;10010;WRHN;WI;Rhinelander;NRG License Sub, LLC;100000;45.62828;-89.39403
 33361;10010;WRHP;AL;Anniston;Elijah Radio, Inc.;;;
@@ -16037,7 +16037,7 @@
 41964;10050;KMME;OR;Cottage Grove;Catholic Broadcasting Northwest, Inc.;10500;43.76094;-123.03644
 42022;10050;KSGC;KS;Tusayan;;80;37.985556;-100.898611
 42531;10050;WJQX;AL;Helena;Cumulus Media, Inc.;69000;33.095000;-87.254444
-42541;10050;W263AL;PA;Scranton;;99;41.40953;-75.66658
+32630;10050;W263AL;PA;Scranton;Times Shamrock Media, L.P.;99;41.40953;-75.66658
 43121;10050;WQPD;SC;Lake City;Cumulus Media, Inc.;3300;33.976667;-79.808889
 43218;10050;WQSW;IN;;;;;
 45570;10050;CBC1;?;;;;;
@@ -17787,7 +17787,7 @@
 53902;10190;W270CE;GA;Rome;Radio By Grace,  Inc.;240;34.004;-85.05606
 53926;10190;W270DI;KY;Columbia;Tri-County Radio Broadcasting Corp.;;;
 53942;10190;K270CF;ID;Lava Hot Springs;;99;42.87378;-112.51386
-53945;10190;W270CC;PA;Hamlin;Bold Gold Media Group, L.P.;;41.54369;-75.46183
+32293;10190;W270CC;PA;Hamlin;Bold Gold Media Group, L.P.;190;41.54369;-75.46183
 53954;10190;W272CZ;IN;;;;;
 53959;10190;W270BX;NY;Rochester;Mars Hill Broadcasting Co. Inc.;;;
 53966;10190;W270DH;FL;New Port Richey;AKMA BROADCASTING, INC;;;
@@ -19870,7 +19870,7 @@
 53797;10370;K279CZ;CA;Lake Isabella;Hill Broadcasting;;;
 53798;10370;K279AK;WA;Granger;;;;
 53804;10370;W279EJ;NC;Hillsborough;;;;
-53813;10370;W280CV;PA;Scranton, Etc.;Family Life Ministries, Inc.;;;
+53813;10370;W279EM;PA;Scranton;Major Keystone LLC;138;41.43594;-75.727109
 53814;10370;W279DG;FL;West Palm Beach;Q-BROADCASTING CORPORATION, INC.;250;26.73358;-80.08603
 53829;10370;K279DA;ID;Sun Valley;Sun Valley Media Group, LLC;;;
 53830;10370;W279BU;PR;San Juan;AURIO A. MATOS BARRETO;;;
@@ -20391,6 +20391,7 @@
 53579;10410;K281CK;AR;Sheridan;HIGH PLAINS RADIO NETWORK, LLC;;;
 53581;10410;W281CH;NC;Washington;Pirate Media Group, LLC;;;
 53606;10410;W281CM;NJ;Millville;;;;
+27142;10410;W281CQ;PA;Scranton;Bold Gold Media Group, L.P.;135;41.435967;-75.727053
 53610;10410;K281AF;OR;Oakridge;;140;43.77622;-122.40475
 53616;10410;W281BG;IN;Knightsville;;;;
 53622;10410;K281CH;MT;Missoula;;99;46.80825;-113.97817
@@ -24174,7 +24175,7 @@
 53915;10730;K297BU;CA;Merced;SMG-Merced, LLC;250;37.29186;-120.43517
 53930;10730;W297AD;PA;Philadelphia;;20;39.96011;-75.19044
 53938;10730;K297AZ;OK;Stillwater;The Love Station, Inc.;200;36.08283;-97.05725
-53949;10730;W297AF;PA;Scranton;;250;41.40953;-75.66658
+25049;10730;W297AF;PA;Scranton;Times Shamrock Media, L.P.;250;41.40953;-75.66658
 53963;10730;W297BO;MN;Hinckley;Herbert M. Hoppe Revocable Trust;250;45.59664;-94.15722
 53991;10730;K297BI;MO;St. Louis;;250;38.61311;-90.33594
 53997;10730;W297CK;WI;Sheboygan;;;;
