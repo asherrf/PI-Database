@@ -1129,7 +1129,7 @@
 33652;8870;WRSU;NJ;New Brunswick;Board of Governors of Rutgers;1000;40.46675;-74.43708
 33729;8870;WRVT;VT;Rutland;Vermont Public Co.;4800;43.658611;-73.106944
 33736;8870;WRWA;AL;Dothan;Troy University;50000;31.208333;-85.614167
-33809;8870;WRYV;PA;Milroy;Invisible Allies Ministries;2200;40.58617;-77.69414
+33783;8870;WRYV;PA;Milroy;Invisible Allies Ministries;2200;40.58617;-77.69414
 33966;8870;WSEW;ME;Sanford;Word Radio Educational Foundation;17000;43.223889;-70.971111
 34052;8870;WSIE;IL;Edwardsville;Board of Trustees of Southern Illinois University;50000;38.785000;-89.986111
 34066;8870;WSIS;MI;Riverside;Smile FM;6000;42.253889;-86.335833
@@ -1927,7 +1927,7 @@
 30718;8930;WNJY;NJ;Netcong;New York Public Radio;1;40.88733;-74.69822
 30729;8930;WNKJ;KY;Hopkinsville;Pennyrile Christian Community, Inc.;12000;36.809444;-87.405556
 30863;8930;WNPN;RI;Newport;Ocean State Media Group;7000;41.59678;-71.1895
-30946;8930;WNSS;FL;Palm Coast;Houston Christian Broadcasters, Inc.;4000;29.547778;-81.209167
+8881;8930;WNSS;FL;Palm Coast;Houston Christian Broadcasters, Inc.;4000;29.547778;-81.209167
 30997;8930;WNUR;IL;Evanston;Northwestern University;7200;42.053333;-87.675833
 31964;8930;WPFW;DC;Washington;Pacifica Foundation, Inc.;34000;38.936111;-77.092500
 32034;8930;WPIO;FL;Titusville;Florida Public Radio Inc;4500;28.584444;-80.848889
@@ -6632,7 +6632,7 @@
 24243;9270;WDUX;WI;Waupaca;Tower Road Media, Inc.;6000;44.35428;-89.05864
 24375;9270;WDZZ;MI;Flint;Cumulus Media, Inc.;3000;43.041389;-83.691111
 24508;9270;WEFC;OH;;;;;
-24705;9270;WEMR;PA;Pleasant Gap;;100;39.914167;-77.626667
+24705;9270;WEMR;PA;Pleasant Gap;CHAMBERSBURG AREA SCHOOL DISTRICT;100;39.914167;-77.626667
 24835;9270;WWWH;AL;Haleyville;AMS Radio, LLC;;;
 25368;9270;WFME;NY;Garden City;Family Stations, Inc.;2000;40.757222;-73.714444
 25391;9270;WFNB;IN;Brazil;DLC Media, Inc.;6000;39.512222;-87.138333
